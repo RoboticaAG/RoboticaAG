@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RoboticaAG
+- 👀 I’m interested in  la robotica y enseño lo poco que sé
+- 🌱 I’m currently learning  a usar arduino correctamente 
+- 💞️ I’m looking to collaborate on canales de robotica que quieran hacer videos juntos
+- 📫 How to reach me : puedes contactarge atraves de mi instagram  @robotica_ag
